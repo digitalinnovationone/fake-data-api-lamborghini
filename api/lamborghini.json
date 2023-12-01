@@ -1,0 +1,56 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "carName": "2015 Lamborghini Huracán GT3",
+      "releaseYear": 2015,
+      "price": "$450,000"
+    },
+    {
+      "id": 2,
+      "carName": "Aventador LP 700-4",
+      "releaseYear": 2011,
+      "price": "$393,695"
+    },
+    {
+      "carName": "Aventador LP 750-4 Superveloce",
+      "releaseYear": 2015,
+      "price": "$493,069"
+    },
+    {
+      "carName": "Countach 25th Anniversary",
+      "releaseYear": 1988,
+      "price": "$400,000"
+    },
+    {
+      "carName": "Countach LP400",
+      "releaseYear": 1974,
+      "price": "$500,000"
+    },
+    {
+      "carName": "Diablo GT",
+      "releaseYear": 1999,
+      "price": "$575,000"
+    },
+    {
+      "carName": "Huracán Gr.4",
+      "releaseYear": 2014,
+      "price": "$300,000"
+    },
+    {
+      "carName": "Huracán LP 610-4",
+      "releaseYear": 2014,
+      "price": "$274,390"
+    },
+    {
+      "carName": "Miura P400 Bertone Prototype CN.0706",
+      "releaseYear": 1966,
+      "price": "$1,200,000"
+    },
+    {
+      "carName": "Veneno",
+      "releaseYear": 2013,
+      "price": "$4,500,000"
+    }
+  ]
+}
