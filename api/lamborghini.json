@@ -13,41 +13,49 @@
       "price": "$393,695"
     },
     {
+      "id": 3,
       "carName": "Aventador LP 750-4 Superveloce",
       "releaseYear": 2015,
       "price": "$493,069"
     },
     {
+      "id": 4,
       "carName": "Countach 25th Anniversary",
       "releaseYear": 1988,
       "price": "$400,000"
     },
     {
+      "id": 5,
       "carName": "Countach LP400",
       "releaseYear": 1974,
       "price": "$500,000"
     },
     {
+      "id": 6,
       "carName": "Diablo GT",
       "releaseYear": 1999,
       "price": "$575,000"
     },
     {
+      "id": 7,
       "carName": "Huracán Gr.4",
       "releaseYear": 2014,
       "price": "$300,000"
     },
     {
+      "id": 8,
       "carName": "Huracán LP 610-4",
       "releaseYear": 2014,
       "price": "$274,390"
     },
     {
+      "id": 9,
       "carName": "Miura P400 Bertone Prototype CN.0706",
       "releaseYear": 1966,
       "price": "$1,200,000"
     },
     {
+      "id": 10,
       "carName": "Veneno",
       "releaseYear": 2013,
       "price": "$4,500,000"
